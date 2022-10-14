@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piyapat Chimakunphanrob
-- 👀 I’m interested in Data Analysis, Data Engineering, Cloud Computing Data Management, and Audit.
+- 👀 I’m interested in Data Analysis, Data Engineering, Cloud Computing, Data Management, and Audit.
 - 🌱 I’m currently learning and practicing more my programming language and cloud computing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via LinkedIn: https://www.linkedin.com/in/piyapat-chi
